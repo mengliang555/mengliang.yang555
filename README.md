@@ -1,11 +1,11 @@
 # A Beginner In Computer Science. 
 ## Some Description
-Love music. Love life.
+- Love music. But not life.
 ## Doing Now
 - Now in **Shopee** but hard to say how long can i stay.
 ## School
 - [BUPT](https://www.bupt.edu.cn/)
-### Skill
+## Skill
 1. Golang
 2. Java(Only used when intern in the company)
 3. Try to add more...
