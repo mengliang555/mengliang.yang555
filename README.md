@@ -1,8 +1,8 @@
-# A beginner in computer science. 
-# mengliang.yang
+# A Beginner In Computer Science. 
+## Some Description
 Love music. Love life.
-## Now in Shopee
-- hard to say how long can i stay.
+## Doing Now
+- Now in **Shopee** but hard to say how long can i stay.
 ## School
 - [BUPT](https://www.bupt.edu.cn/)
 ### Skill
